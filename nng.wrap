@@ -1,0 +1,10 @@
+[wrap-file]
+directory = nng-1.1.1
+
+source_url = https://github.com/nanomsg/nng/archive/v1.1.1.zip
+source_filename = nng-1.1.1.zip
+source_hash = 0faee1281f7707d3e80c15441b163a21fbe96ddbb95f78a8009e3b10514a4d04
+
+patch_url = https://github.com/argylelabcoat/nng-meson-patch/archive/v1.1.1.zip
+patch_filename = nng-meson-patch-1.1.1.zip
+patch_hash = ede9bf3b651a42d39f9e60ae0657b8154c198297691cfdac5cfe159de16939ad
