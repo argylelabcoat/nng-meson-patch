@@ -7,4 +7,4 @@ source_hash = 0faee1281f7707d3e80c15441b163a21fbe96ddbb95f78a8009e3b10514a4d04
 
 patch_url = https://github.com/argylelabcoat/nng-meson-patch/releases/download/v1.1.1/nng-patch-v1.1.1.zip
 patch_filename = nng-patch-v1.1.1.zip
-patch_hash = 26dba8af24b6493bdf9364b05c0cc24228d318f6183313f83ea5e39ff648c840
+patch_hash = 136a6be0bc0a3d629d41838d0f4af66aedb11e4dd1c09f2a1979a977e03b9883
