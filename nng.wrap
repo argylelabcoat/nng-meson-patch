@@ -5,6 +5,6 @@ source_url = https://github.com/nanomsg/nng/archive/v1.1.1.zip
 source_filename = nng-1.1.1.zip
 source_hash = 0faee1281f7707d3e80c15441b163a21fbe96ddbb95f78a8009e3b10514a4d04
 
-patch_url = https://github.com/argylelabcoat/nng-meson-patch/archive/v1.1.1.zip
-patch_filename = nng-meson-patch-1.1.1.zip
-patch_hash = 771c03c234c345091659c159cc7f6f6f8245f139fca72f097272d670915e9d91
+patch_url = https://github.com/argylelabcoat/nng-meson-patch/releases/download/v1.1.1/nng-patch-v1.1.1.zip
+patch_filename = nng-patch-v1.1.1.zip
+patch_hash = b6eec3f58d5fa41fe31808537e03ecbb38e1ce8093a5607885b2e7b04b532af8
