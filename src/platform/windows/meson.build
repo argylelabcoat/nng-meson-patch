@@ -1,0 +1,18 @@
+windows_src = files(
+    'win_clock.c',
+    'win_debug.c',
+    'win_file.c',
+    'win_io.c',
+    'win_ipcconn.c',
+    'win_ipcdial.c',
+    'win_ipclisten.c',
+    'win_pipe.c',
+    'win_rand.c',
+    'win_resolv.c',
+    'win_sockaddr.c',
+    'win_tcp.c',
+    'win_tcpconn.c',
+    'win_tcpdial.c',
+    'win_tcplisten.c',
+    'win_thread.c',
+    'win_udp.c')
